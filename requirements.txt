@@ -7,3 +7,4 @@ dropbox
 datetime
 matplotlib
 openpyxl
+uvicorn
