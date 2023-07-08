@@ -21,5 +21,5 @@ def predict_soc():
     The battery power is {}.
     </h1>'''.format(soc)
 
-if __name__ == '__main__':
-    app.run()
+# if __name__ == '__main__':
+#     app.run()
